@@ -61,17 +61,3 @@ npm run build
 ```
 
 The optimized output will be generated in the `build` folder.
-
-## Future Improvements
-
-- Add pagination for the Pokémon list.
-- Improve filter functionality with more Pokémon attributes (like abilities, height, weight).
-- Enhance the UI with more detailed Pokémon stats and abilities.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-You can customize this further based on any specific details you'd like to highlight. Let me know if you need anything else!
