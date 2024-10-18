@@ -1,7 +1,3 @@
-Here’s a simple and concise `README.md` file for your Pokémon Listing application using the PokéAPI:
-
----
-
 # Pokémon Listing App
 
 This project is a simple Pokémon listing page built using React and the PokéAPI. It allows users to view a list of Pokémon, search for specific Pokémon with a debounce functionality, and filter them by type. The project is styled using Tailwind CSS (or plain CSS if preferred).
